@@ -27,3 +27,6 @@ console.log("Todavia o ideal é sempre usar Constantes ao invés de Let, a não 
 
 const nomeCompleto = nome + sobrenome;
 console.log(nomeCompleto);
+
+//O const precisa ser declardo em uma única linha, pois ele é uma variável que não pode ser reatribuída.
+//Já o let, pode ser reatribuído,.
